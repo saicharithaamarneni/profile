@@ -1,12 +1,11 @@
-<!-- ========================= HEADER SECTION ===============
+<!-- ========================= HEADER SECTION ========================= -->
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=saicharithaamarneni"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F79F&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Machine+Learning+Learner;Data+Science+Explorer;Deep+Learning+Beginner;Problem+Solver"/>
-</p>
+  </p>
 
 <p align="center">
 AI/ML Enthusiast • Machine Learning Learner • Data Science Explorer • Problem Solver
